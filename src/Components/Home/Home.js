@@ -1,9 +1,10 @@
 import React from 'react';
+import Quizs from '../Quiz/Quizs';
 
 const Home = () => {
     return (
         <div>
-            <h1>this is home page</h1>
+            <Quizs></Quizs>
         </div>
     );
 };
