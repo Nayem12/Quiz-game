@@ -7,11 +7,13 @@ import Quizs from './Components/Quiz/Quizs';
 import Statistcs from './Components/Statistcs/Statistcs';
 import Blog from './Components/Blog/Blog';
 import Qquestion from './Components/QuizQuestion/Qquestion';
+import Errorpage from './Layout/Errorpage';
 
 function App() {
   const router = createBrowserRouter([
     {
       path: '/', element: <Main></Main>,
+      errorElement: <Errorpage></Errorpage>,
       loader: () => fetch('https://openapi.programming-hero.com/api/quiz'),
       children: [
         {
