@@ -68,3 +68,34 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### This project website name
+
+Quiz percent
+
+### `Quiz percent website` live website link 
+
+Go to this website and see how cute : https://stellar-dusk-f19eaa.netlify.app/
+
+
+### What we will see this website 
+
+When we goes to website first we see a home page in this website and we also see a nav bar which have many single page application site 
+
+### Some interesting quiz 
+
+In this website we give some quiz part in a variant section 
+
+### Quiz section 
+
+We gave the thumbnail in this quiz part because of people realize that which type of quiz we add in this website. When people click this thumbnail they have go quiz part and participant so many quiz section.
+
+### Live toast 
+
+When we goes to the quiz part we start a quiz and select random answer, they have to see some feature like that toast they came the side bar menu and seen that is the correct answer or not.
+
+### Chart
+
+In this website we added chart in a single page they have to given how much quiz we added in a part.
+
+after all we enjoy so many feature in this website.
