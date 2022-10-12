@@ -9,7 +9,7 @@ const Quizs = () => {
     return (
         <div>
 
-            <div className="mx-auto bg-violet-300 grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-2  items-center justify-center sm:p-10">
+            <div className="mx-auto md:m-auto bg-violet-300 grid grid-cols-1 gap-4 md:gap-2 md:grid-cols-1 lg:grid-cols-2 md:w-full items-center justify-center sm:p-10">
                 {
                     quizCategories.map(quizCategory => <Category key={quizCategory.id} quizCategory={quizCategory}></Category>)
                 }

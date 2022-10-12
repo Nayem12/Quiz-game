@@ -3,7 +3,7 @@ import './HomePart.css'
 
 const HomePart = () => {
     return (
-        <div>
+        <div className='md:w-full'>
             <section className='header'>
                 <div className='text-box'>
                     <h1>First, solve the problem. Then, write the code</h1>

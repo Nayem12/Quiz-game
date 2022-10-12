@@ -4,7 +4,7 @@ import Quizs from '../Quiz/Quizs';
 
 const Home = () => {
     return (
-        <div>
+        <div className='md:w-full'>
             <HomePart></HomePart>
             <Quizs></Quizs>
         </div>
